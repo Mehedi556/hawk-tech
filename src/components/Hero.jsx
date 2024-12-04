@@ -24,7 +24,7 @@ const Hero = () => {
             business stays ahead, soaring to new heights with innovative digital
             solutions.
           </p>
-          <button className="animated-button mt-5 animate__animated animate__fadeInUp animate__delay-0s animate__slower">
+          <button className="hidden sm:block animated-button mt-5 animate__animated animate__fadeInUp animate__delay-0s animate__slower">
             <svg
               viewBox="0 0 24 24"
               className="arr-2"
