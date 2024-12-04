@@ -27,7 +27,7 @@ const Navbar = () => {
               to="/facilities"
               className="block py-2 px-3 hover:text-white md:p-0"
             >
-              Facilities
+              Services
             </button>
 
             <button

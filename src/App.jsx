@@ -1,5 +1,7 @@
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
+import OurApproach from "./components/OurApproach";
 import WhatWeDo from "./components/WhatWeDo";
 import WhatWeOffer from "./components/WhatWeOffer";
 
@@ -12,6 +14,8 @@ function App() {
       <Hero />
       <WhatWeDo />
       <WhatWeOffer />
+      <OurApproach />
+      <Footer />
     </div>
   );
 }
